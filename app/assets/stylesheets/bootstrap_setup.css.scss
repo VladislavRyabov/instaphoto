@@ -6,9 +6,7 @@
 	background-image: url(image_path('background.jpg')); 
 }
 .jumbotron {
-	width: 50%;
 	background: rgba(255,255,255,0.2);
-	margin: auto;
 	padding: 30px;
 }
 .display-4 {
@@ -97,3 +95,20 @@ button, button:hover, button:focus, button:active
 .nav-item a:hover {
 	 color: #26AFFF;
 }
+.container-login {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.navbar {
+	background: #00CCFF;
+}
+.bg-transparent {
+	background: rgba(255,255,255,0);
+}
+.navbar-brand {
+	color: #fff;
+}
+.nav-link {
+	color: #fff;
+}
+
